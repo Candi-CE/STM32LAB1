@@ -1,0 +1,3 @@
+turn_light.c:2:6:on_red	8	static
+turn_light.c:7:6:on_yel	8	static
+turn_light.c:12:6:on_green	8	static
